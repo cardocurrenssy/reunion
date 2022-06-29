@@ -1,0 +1,34 @@
+.top_section{
+  /*background-color: black;*/
+  height: 15%;
+  width: auto;
+  margin-bottom: 0;
+}
+.logo{
+  width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.middle_text{
+  text-align: center;
+  font-family: 'Staatliches','Impact',cursive,sans-serif;
+}
+.middle_section{
+  margin-top: 0;
+}
+.one_btn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer_section{
+  background-color: black;
+  margin-top: 20px;
+}
+p{
+  padding:10px;
+  color: white;
+  text-align: center;
+}
